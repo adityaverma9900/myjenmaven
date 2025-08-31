@@ -75,7 +75,6 @@
     <configuration>
         <url>http://http://3.110.169.15:8080//manager/helloproject</url>
         <server>tomcatserver</server>
-        <path>/ssscollege</path>
         <username>admin</username>
         <password>admin</password>
     </configuration>
